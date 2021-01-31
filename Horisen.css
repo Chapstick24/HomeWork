@@ -51,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* set formatting for photos*/
 .hero {
     height: 800px;
     width: 100%;
@@ -83,7 +83,7 @@ p {
     
 
 }
-
+/* set images sizes in benefit selector... MARGINS, sizes and fonts */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -196,14 +196,15 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* padding font text lignment*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*added size to footer*/
 .footer h2 {
     font-size: 20px;
+    
 }
